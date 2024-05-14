@@ -3,6 +3,6 @@ import kotlin.test.Test
 class NumberTest {
     @Test
     fun test() {
-        println("test")
+        println("pull request test")
     }
 }
